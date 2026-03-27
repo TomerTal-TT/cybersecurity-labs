@@ -1,8 +1,6 @@
 # cybersecurity-labs
 This repository documents my hands-on cybersecurity learning journey, including labs from TryHackMe focused on Linux, networking, and security fundamentals.
 
-This repository documents my hands-on cybersecurity learning journey.
-
 ---
 
 ## Linux Fundamentals Part 1 (TryHackMe)
